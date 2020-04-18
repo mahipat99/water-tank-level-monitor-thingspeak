@@ -1,4 +1,4 @@
-Battery operated water tank monitor using Wemos D1 mini and ultrasonic sensor data
+Battery operated water tank level monitor using Wemos D1 mini and ultrasonic sensor data
 ------
 
 
@@ -44,4 +44,10 @@ Diagram -
 
 ![alt text][logo]
 
-[logo]: https://raw.githubusercontent.com/mahipat99/water-tank-monitor-thingspeak/master/img/water%20tank_final.png "water tank monitor thingspeak"
+[logo]: https://raw.githubusercontent.com/mahipat99/water-tank-monitor-thingspeak/master/img/water%20tank_final.png "water tank level monitor thingspeak"
+
+Demo - 
+
+![alt text](https://raw.githubusercontent.com/mahipat99/water-tank-level-monitor-thingspeak/master/img/thingspeak.PNG "water level and battery percentage")
+
+
