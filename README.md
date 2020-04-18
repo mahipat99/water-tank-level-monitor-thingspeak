@@ -26,9 +26,9 @@ Parts used :
 
 * 18650 cell
 
-* Solar panel
+* Solar panel (optional)
 
-* Ultra sonic sensors
+* Ultra sonic sensor(HC-SR04)
 
 * 180k resistor
 
@@ -38,7 +38,7 @@ Parts used :
 
 * BC557B transistor
 
-Ps - You can also power it using any 5V mobile charger too , skip Solar panel
+Ps - You can also power it using any 5V mobile charger too , skip solar panel
 
 Diagram -
 
