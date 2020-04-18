@@ -1,4 +1,4 @@
-Battery operated water tank level monitor using Wemos D1 mini and ultrasonic sensor data
+Battery operated water tank level monitor using Wemos D1 mini and ultrasonic sensor
 ------
 
 
